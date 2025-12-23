@@ -1,4 +1,7 @@
 # ENA_Project
-The is a ENA Project test runs by the example codes in rENA.
-See the graphs at the link below:
-https://therealckz.github.io/ENA_Project/(file name)
+
+This is an ENA project test run using the example code in **rENA**.
+
+See the graphs here:  
+- Main page: https://therealckz.github.io/ENA_Project/  
+- Specific file: https://therealckz.github.io/ENA_Project/<FILE_NAME>.html
